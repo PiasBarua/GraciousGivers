@@ -1,0 +1,43 @@
+body {
+    margin: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.section1-Background-image {
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.8)), url(images/d3.jpeg);
+    background-color: teal;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    
+
+}
+
+.section1-Background-image-headlingtext {
+    text-align: center;
+    font-size: 4em;
+    color: white;
+    margin: 0;
+}
+
+.section1-Background-image-headlingtext p {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    padding-top: 30px;
+    width: 50%;
+    padding-left: 25%;
+
+}
+
+.Donate-Button {
+
+    text-decoration: none;
+    font-size: 30px;
+    background-color: rgb(4, 93, 182);
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: white;
+
+}

@@ -41,3 +41,115 @@ body {
     color: white;
 
 }
+.section2-Donate {
+    text-align: center;
+    margin-top:100px;
+    font-size: x-large;
+    
+}
+.section2-Donate p{
+    margin: 50px;
+}
+.section2-letter-spacing{
+    text-align: center;
+    margin:80px;
+    word-spacing:100px;
+    font-weight: bolder;
+
+}
+.specific-color{
+    color: rgb(4,93,182); 
+    border:2px solid;
+    padding: 30px 50px;
+    left: -20px;
+   
+}
+.Other-amount{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(183, 183, 183);
+    margin-top: 120px;
+ 
+}.border{
+    margin-bottom: 50px;
+    width: 1000px;
+    height: 2px; 
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:20px;
+    margin-bottom:20px;
+    background-color: rgb(4, 93,182);
+}
+.section2-button{
+    
+    text-decoration: none;
+    font-size: 30px;
+    background-color: rgb(4, 93, 182);
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: white;
+    margin-left:850px;
+
+    
+     
+}
+.section3-heading{
+    text-align: center;
+    margin-top: 120px;
+    font-size: xx-large;
+}
+.paragraph {
+    color: rgb(4, 93,182);
+    margin-top:20px;
+    width:1000px;
+    text-align: center;   
+    margin: 0 auto;
+
+}
+.Donation-plnatext{
+    display: flex;
+    text-align: center;
+    width: auto;
+    text-align: justify;
+    margin-top: 60px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.a{
+        width: 40%;
+        padding: 40px;
+        margin-top: 3%;
+        margin-left: 3.5%;
+        margin-right: 3%;
+        box-shadow: 10px 10px 40px grey;
+        text-align: justify;
+        border-radius: 15px;
+        background-color: rgb(4, 93, 182);
+        color: white;
+
+}
+.b{
+        width: 40%;
+        padding: 40px;
+        margin-top: 3%;
+        margin-left: 3.5%;
+        margin-right: 3%;
+        box-shadow: 10px 10px 40px grey;
+        text-align: justify;
+        border-radius: 15px;
+        background-color: rgb(4, 93, 182);
+        color: white;
+}
+.c{
+        width: 40%;
+        padding: 40px;
+        margin-top: 3%;
+        margin-left: 3.5%;
+        margin-right: 3%;
+        box-shadow: 10px 10px 40px grey;
+        text-align: justify;
+        border-radius: 15px;
+        background-color: rgb(4, 93, 182);
+        color: white;
+}

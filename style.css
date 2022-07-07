@@ -50,11 +50,13 @@ body {
     text-align: center;
     margin-top: 100px;
     font-size: x-large;
+    color: rgb(214, 106, 124);
 
 }
 
 .section2-Donate p {
     margin: 50px;
+    color: black;
 }
 
 .section2-letter-spacing {
@@ -63,13 +65,31 @@ body {
     word-spacing: 100px;
     font-weight: bolder;
 
+
+
 }
 
-.specific-color {
+.Taka-flex {
+    display: flex;
+    text-align: center;
+    padding-left: 280px;
+    word-spacing: 30px;
+    padding-left: 350px;
+
+}
+
+.color {
+
+    margin-bottom: 0px;
+    padding: 10px 80px;
+    padding-bottom: 110px;
+    padding-top: 75px;
+    border: 2px solid rgb(214, 106, 124);
+    border-radius: 10px;
+    width: 45px;
+    height: 20px;
     color: rgb(214, 106, 124);
-    border: 2px solid;
-    padding: 30px 50px;
-    left: -20px;
+
 
 }
 
@@ -77,7 +97,7 @@ body {
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
     color: rgb(214, 106, 124);
-    margin-top: 120px;
+    margin-top: 80px;
 
 }
 
